@@ -1,0 +1,2 @@
+include ':app', ':resourceApp'
+rootProject.name = "ReplaceSkinDemo"
